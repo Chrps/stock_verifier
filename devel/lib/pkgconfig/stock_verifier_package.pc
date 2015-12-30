@@ -1,0 +1,8 @@
+prefix=/home/workstation/catkin_ws/devel
+
+Name: stock_verifier_package
+Description: Description of stock_verifier_package
+Version: 0.0.0
+Cflags: -I/home/workstation/catkin_ws/devel/include
+Libs: -L/home/workstation/catkin_ws/devel/lib 
+Requires: message_runtime

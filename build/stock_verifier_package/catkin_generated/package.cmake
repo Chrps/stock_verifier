@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "stock_verifier_package")
+set(stock_verifier_package_MAINTAINER "Michael <micnie15@student.aau.dk>")
+set(stock_verifier_package_DEPRECATED "")
+set(stock_verifier_package_VERSION "0.0.0")
+set(stock_verifier_package_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation")
+set(stock_verifier_package_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime")
+set(stock_verifier_package_BUILDTOOL_DEPENDS "catkin")
